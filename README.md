@@ -41,3 +41,5 @@ Here are a few highlights of my work:
 - I'm on a mission to post **100 JavaScript projects** on LinkedIn to share knowledge and engage with the community.
 
 Let's connect and collaborate on something amazing!
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tahaansaribinjaved&theme=dark)](https://git.io/streak-stats)
